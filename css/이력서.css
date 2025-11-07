@@ -118,8 +118,9 @@ main {
 }
 .ment {
   font-size: 20px;
-  margin-top: -20px;
+  margin-top: -5px;
 }
+
 footer {
   position: fixed;
   bottom: 0;
